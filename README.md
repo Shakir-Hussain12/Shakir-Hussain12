@@ -1,20 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200" height="200"/>
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="200" height="200"/>
-
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/shakir-hussain-2129a121b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/shakir.hussain.560/">
-    <img src="https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://twitter.com/S_Hussain_99">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 <h1>
-  Hey There
+  Hi, Shakir Here
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -22,7 +10,7 @@
 </div>
 </div>
 
-### :man_technologist: About Me
+## :man_technologist: About Me
 ---
 I am an aspiring software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 - :telescope: I’m currently enrolled at Microverse and learning to be a professional full stack developer.
@@ -30,8 +18,7 @@ I am an aspiring software engineer <img src="https://media.giphy.com/media/WUlpl
 - :teacher: One of my final goals is to be a teacher since I love to teach others what I know.
 
 
-### :hammer_and_wrench: Languages and Tools
----
+## :hammer_and_wrench: Languages and Tools
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -54,4 +41,24 @@ I am an aspiring software engineer <img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" **alt="Anaconda" width="40" height="40"/>
 </div>
 
+# My Socials
+ <div id="badges">
+<a href="https://www.linkedin.com/in/shakir-hussain-2129a121b/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://www.facebook.com/shakir.hussain.560/">
+  <img src="https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+</a>
+<a href="https://twitter.com/S_Hussain_99">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
+<a href="mailto:shakir.hussain6969@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=Gmail&logoColor=Red" alt="Twitter Badge"/>
+</a>
+</div>
+
 # Github Stats
+
+![Shakir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakir-Hussain12&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakir-Hussain12&layout=compact)](https://github.com/Shakir-Hussain12/github-readme-stats)
