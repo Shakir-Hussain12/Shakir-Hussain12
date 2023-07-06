@@ -12,7 +12,7 @@
 
 ## :man_technologist: About Me
 I am an aspiring software engineer & a Full-stack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
-- :telescope: I’m currently enrolled at Microverse and learning to be a professional full stack developer.
+- :telescope: I’m currently enrolled at Microverse and perfecting the skills to be a professional full stack developer.
 - :zap: In my free time, I solve problems on GeeksforGeeks/HackerRank/Leetcode and play games.
 - :teacher: One of my final goals is to be a teacher since I love to teach others what I know.
 
