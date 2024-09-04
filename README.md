@@ -11,8 +11,8 @@
 </div>
 
 ## :man_technologist: About Me
-I am an aspiring software engineer & a Full-stack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
-- :telescope: I’m currently enrolled at Microverse and perfecting the skills to be a professional full stack developer.
+I am a software engineer & a Full-stack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+- :telescope: I’ve completed the full-stack training program from Microverse where I worked on over 30+ projects.
 - :zap: In my free time, I solve problems on GeeksforGeeks/HackerRank/Leetcode and play games.
 - :teacher: One of my final goals is to be a teacher since I love to teach others what I know.
 
@@ -45,15 +45,12 @@ I am an aspiring software engineer & a Full-stack developer<img src="https://med
 
 # My Socials
  <div id="badges">
-<a href="https://www.linkedin.com/in/shakir-hussain-2129a121b/">
+<a href="https://www.linkedin.com/in/shakir-hussain99/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://www.facebook.com/shakir.hussain.560/">
   <img src="https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
-</a>
-<a href="https://twitter.com/S_Hussain_99">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</a>
+</a> 
 <a href="mailto:shakir.hussain6969@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=Gmail&logoColor=Red" alt="Twitter Badge"/>
 </a>
